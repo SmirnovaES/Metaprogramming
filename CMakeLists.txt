@@ -4,3 +4,4 @@ project(Metaprogramming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(patterns Patterns/main.cpp)
+add_executable(hierarchy Hierarchy/main.cpp)
